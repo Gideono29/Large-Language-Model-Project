@@ -1,7 +1,6 @@
-Hello everyone, I'm Gideon- 👋 Hi, I’m @Gideono29
-- 👀 I’m interested in digital health, telehealth, machine learning and artificial intelligence
-- 🌱 I’m currently learning, machine learning, Large Language Models etc
-- 💞️ I’m looking to collaborate on digital health application development
+The objective of this project is to develop a  large language Model (LLM) capable of providing well-tailored answers to medical queries by patients
+The Medqua dataset for this project is obtained from hugginface
+The dataset is used to fine Llame 3 8b to provide answers to medical queries
 
 
 <!---
